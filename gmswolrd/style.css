@@ -1,0 +1,25 @@
+body {
+    margin: 0px;
+    background: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
+}  
+header{ 
+   border: solid 2px white;
+   font-size: 30px;
+   padding: 20px;
+   display: flex;
+   justify-content: center;
+}
+title {
+    font-size: 35px
+    justify content: center;
+    display: center
+}   
+.texto{
+    font-size: 25px;
+}
+
+img {
+    height: 200;
+    margin: 20px;
+}
